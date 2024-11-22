@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -s https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/Ferdimanaaa/logo.sh/refs/heads/main/logo.sh | bash
 sleep 5
 
 # Kode warna
