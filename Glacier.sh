@@ -123,4 +123,4 @@ else
 fi
 
 # Menambahkan instruksi untuk bergabung dengan channel Airdrop Node
-echo -e "\n${CYAN}📢  Jangan lupa bergabung dengan channel Airdrop Node untuk update terbaru: ${WHITE}https://t.me/airdrop_node${RESET}"
+echo -e "\n${CYAN}📢  In MGSKY we Trust: ${WHITE}https://t.me/airdrop_node${RESET}"
